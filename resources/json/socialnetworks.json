@@ -1,0 +1,26 @@
+[
+  {
+    "href": "http://www.facebook.com/",
+    "icon": "ion-social-facebook"
+  },
+  {
+    "href": "http://www.twitter.com/",
+    "icon": "ion-social-twitter"
+  },
+  {
+    "href": "http://www.googleplus.com/",
+    "icon": "ion-social-googleplus"
+  },
+  {
+    "href": "http://www.instagram.com/",
+    "icon": "ion-social-instagram"
+  },
+  {
+    "href": "resources/dokumentacija.pdf",
+    "icon": "ion-document-text"
+  },
+    {
+    "href": "resources/sitemap.xml",
+    "icon": "ion-network"
+  }
+]

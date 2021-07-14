@@ -1,0 +1,52 @@
+[
+{
+  "name": "Bunny ears",
+  "price": 6,
+  "picture": {
+    "src": "cacti1.jpg",
+    "alt":"bunny ears"
+  }
+},
+
+{
+  "name": "Golden barrel",
+  "price": 5,
+  "picture": {
+    "src": "cacti2.jpg",
+    "alt": "golden barrel"
+  }
+},
+
+{
+  "name": "Pincushion Cactus",
+  "price": 8,
+  "picture": {
+    "src": "cacti3.jpg",
+    "alt":"Pincushion Cactus"
+  }
+},
+{
+  "name": "Chin Cactus",
+  "price": 5,
+  "picture": {
+    "src":"cacti4.jpg",
+   "alt":"Chin Cactus"
+ }
+},
+{
+  "name": "Old Lady Cactus",
+  "price": 7,
+  "picture": {
+    "src": "cacti5.jpg",
+    "alt":"Old Lady Cactus"
+  }
+},
+{
+  "name": "Prickly Pear Cactus",
+  "price": 6,
+  "picture": {
+    "src": "cacti6.jpg",
+   "alt": "Prickly Pear Cactus"
+ }
+}
+]

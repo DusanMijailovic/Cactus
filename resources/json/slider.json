@@ -1,0 +1,21 @@
+[
+	{
+		"picture": {
+			"src": "slider1.jpg",
+			"alt": "golden barrel"
+		}
+	},
+	{
+		"picture": {
+			"src": "slider2.jpg",
+			"alt": "golden barrel"
+		}
+	},
+
+	{
+		"picture": {
+			"src": "slider3.jpg",
+			"alt": "golden barrel"
+		}
+	}
+]
